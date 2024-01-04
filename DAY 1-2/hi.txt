@@ -1,0 +1,25 @@
+
+ Introduction and building my first web site with HTML CSS
+
+Web Development 100 Days: A Beginner's Journey
+
+Day 1-Day 2: Introduction to Web Development
+Today, I embarked on my 100 Days of Coding Challenge with a focus on web development. Here's a explaination of what I've learned:
+
+What is Web Development?
+Web development is the process of building and maintaining websites. It encompasses both the front-end (user interface) and back-end (server-side) development.
+
+Key Concepts:
+HTML (HyperText Markup Language): Used for structuring content on the web. Elements like <head>, <body>, and <p> help create the layout of a page.
+CSS (Cascading Style Sheets): Styles and beautifies HTML elements. Selectors and properties like color, font-size, and margin control the appearance.
+JavaScript: Adds interactivity to websites. Functions, variables, and event listeners allow for dynamic user experiences.
+The Web's Infrastructure:
+
+URL (Uniform Resource Locator): An address for resources on the web. Consists of the protocol (https://), domain (example.com), and path (/page).
+Browser: Software that interprets and displays web content. Popular browsers include Chrome, Firefox, and Safari.
+Internet Basics: Data transfer between a client (your device) and a server. The client requests resources, and the server responds.
+Behind the Scenes:
+
+DNS (Domain Name System): Translates human-readable domain names (like example.com) to IP addresses.
+Server: A computer that stores and serves web content. Handles requests from clients.
+HTTPS (HyperText Transfer Protocol Secure): Ensures secure data transfer between the client and server.
