@@ -1,6 +1,4 @@
 body{
-    text-align: center;
-    background-color: rgb(233, 215, 207);
     margin: 50px;
 }
 
@@ -19,14 +17,7 @@ p{
     font-family: 'Fira Sans', sans-serif; 
      color: rgb(39, 38, 38);
 }
-a{
-    color: rgb(172, 1, 25);
-    text-decoration: none;
-}
 
-a:hover{
-    text-decoration: underline;
-}
 
 #todays-challanges{
     color: rgb(170, 33, 96);
