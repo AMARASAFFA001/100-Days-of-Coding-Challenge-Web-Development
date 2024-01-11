@@ -1,0 +1,51 @@
+Day 3:
+
+Working with Color:
+
+In HTML/CSS, colors can be specified using names, hexadecimal codes (#RRGGBB), RGB values, or HSL values.
+Formatting Code:
+
+Proper code formatting enhances readability. Consistent indentation and spacing make your code more maintainable.
+Browser Developer Tools:
+
+DevTools allow you to inspect and debug web pages. You can modify HTML and CSS in real-time, inspect the DOM, and analyze network activity.
+Adding a Link:
+
+The <a> element is used to create hyperlinks. The href attribute specifies the URL.
+Nesting HTML Elements:
+
+HTML elements can be nested inside each other to create a structured document.
+Global CSS Styling:
+
+Global styles apply to the entire document. They can be defined in the <style> tag or an external CSS file.
+HTML Document Skeleton and Metadata:
+
+The basic structure of an HTML document includes the <html>, <head>, and <body> elements. Metadata, like <title> and <meta>, provides information about the document.
+VS Code Shortcuts and Tricks:
+
+VS Code offers various shortcuts and features to boost productivity. Examples include multi-cursor editing and keyboard shortcuts.
+
+
+
+
+
+Day 4:
+
+Styling the Anchor Element and Pseudo Hover:
+
+Styling the <a> (anchor) element is common for improving visual appearance. :hover pseudo-class styles are applied when the mouse hovers over an element.
+Cascading Style Sheet (CSS):
+
+CSS is a style sheet language used for describing the presentation of a document written in HTML. It follows a cascading order of styles.
+Storing CSS Code in External Files:
+
+Keeping CSS in separate files promotes maintainability and reusability. External stylesheets are linked using the <link> element.
+Void Element Syntax:
+
+Void elements in HTML are self-closing tags like <img> and <br>. They don't have closing tags.
+Working with Font-Size and Pixels:
+
+The font-size property in CSS determines the size of text. Pixels (px) is one of the units used for sizing.
+Using Other Fonts from Google:
+
+Google Fonts provides a collection of free and open-source fonts that can be easily integrated into web projects using CSS.
