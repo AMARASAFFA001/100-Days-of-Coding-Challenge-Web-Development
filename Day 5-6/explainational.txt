@@ -1,1 +1,26 @@
- 
+ Day 5:
+
+Adding Image:
+
+The <img> element is used to embed images in HTML. The src attribute specifies the image file's source.
+Styling the Image:
+
+CSS can be used to style images, controlling aspects such as size, borders, and alignment.
+Using the Body Tag:
+
+The <body> tag contains the content of an HTML document, including text, images, links, etc.
+Styling the Overall Page Background:
+
+The background property in CSS allows you to set the background color, image, or other properties for the entire page.
+Adding a Second HTML File:
+
+Multiple HTML files can be used to create a multi-page website. Each file represents a different page.
+Challenge:
+
+Challenges often provide an opportunity to apply and reinforce what you've learned. It could involve a specific task like creating a layout or solving a problem.
+Using a Shared CSS File:
+
+Centralizing CSS in an external file and linking it to multiple HTML files promotes consistency and ease of maintenance.
+Organizing Source Files in a Folder:
+
+Keeping your project files organized in folders enhances clarity and makes it easier to manage as your project grows.
