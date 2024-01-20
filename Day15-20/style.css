@@ -36,6 +36,22 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
 
+
+    #highlight{
+        padding: 24px;
+        background: linear-gradient(45deg, rgb(227, 255, 253), rgb(202, 243, 240));
+       
+    }
+
+    #highlight h2{
+        text-transform: uppercase;
+        text-align: center;
+        font-size: 40px;
+        margin: 24px 0 ;
+        font-family: sans-serif;
+        color: rgb(59, 65, 64);
+    }
+
     #hero-content a{
         text-decoration: none;
         background-color: rgb(255, 251, 0);
@@ -51,3 +67,37 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
           background-color: rgb(258, 225, 0);
             
             }
+
+            #destinations{
+                display: flex;
+                justify-content: center;
+                width: 90%;
+                margin: 0 auto;
+                margin-bottom: 40px;
+            }
+
+
+            .destination{
+              margin: 0 20px;
+            }
+
+            .destination p{
+                font-size: 24px;
+                font-family:sans-serif;
+                color: rgb(124, 123, 123);
+                margin: 20px 0;
+               text-align: center;
+               text-transform: uppercase;
+            }
+
+        .destination img{
+            height: 200px;
+            width: 100%;
+            border-radius: 10px;
+            object-fit: cover;
+            box-shadow: 2px 4px 8px rgb(65, 67, 67);
+        }
+
+        .destination strong{
+         color: rgb(0, 160, 117);
+         }
